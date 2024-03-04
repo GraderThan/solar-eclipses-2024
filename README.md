@@ -1,5 +1,7 @@
 # Solar Eclipses Python Lesson
 
+![3D model of earth's orbit](./images/earth-orbit.gif)
+
 Educational Python Material for the April 4th, 2024 Solar Eclipse 🌑✨ - Suitable for Grades 8-12
 
 Dive into the celestial mechanics of solar eclipses with our comprehensive educational lesson, timed for the upcoming April 4th, 2024, solar eclipse visible in the US. This repository contains engaging and informative resources for middle and high school students (grades 8-12).
@@ -28,6 +30,9 @@ You can follow these steps to give your students all the content in their Grader
 
    ```shell
     #!/bin/bash
+
+    # Installs an extension that allows you to view marp slide in your workspace
+    gt_extension_installer install marp-team.marp-vscode &
     
     cd "/home/developer/Documents/code/"
     GIT_REPO_URL=https://github.com/graderthan/solar-eclipses-2024.git
@@ -51,6 +56,7 @@ You can follow these steps to give your students all the content in their Grader
       git clone "${GIT_REPO_URL}"
     fi
     
+    wait
     
     # If anything goes wrong, don't prevent the workspace from starting.
     exit 0
@@ -60,12 +66,10 @@ You can follow these steps to give your students all the content in their Grader
 
 3. **🥳 Completion!** Your students and course now have access to the course content.
 
-We believe that learning to code should be fun, interactive, and accessible. With these resources, we hope to ignite a passion for programming in your students and equip them with the skills to explore the vast universe of coding.
-
-Happy teaching! 🍎💻🌈
-
----
-
 ## Need Glasses 😎?
 
 Please [get in touch with us](https://portal.graderthan.com/contact-us/) if your course needs solar eclipse viewing glasses.
+
+We believe that learning to code should be fun, interactive, and accessible. With these resources, we hope to ignite a passion for programming in your students and equip them with the skills to explore the vast universe of coding.
+
+Happy teaching! 🍎💻🌈
