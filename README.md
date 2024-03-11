@@ -2,7 +2,7 @@
 
 ![3D model of earth's orbit](./images/earth-orbit.gif)
 
-Educational Python Material for the April 4th, 2024 Solar Eclipse 🌑✨ - Suitable for Grades 8-12
+Educational Python Material for the April 8th, 2024 Solar Eclipse 🌑✨ - Suitable for Grades 8-12
 
 Dive into the celestial mechanics of solar eclipses with our comprehensive educational lesson, timed for the upcoming April 4th, 2024, solar eclipse visible in the US. This repository contains engaging and informative resources for middle and high school students (grades 8-12).
 
