@@ -33,7 +33,11 @@ You can follow these steps to give your students all the content in their Grader
 
     # Installs an extension that allows you to view marp slide in your workspace
     gt_extension_installer install marp-team.marp-vscode &
-    
+
+    # Updates the marp settings to enable HTML usage
+    jq '. + {"markdown.marp.enableHtml": true}' /home/developer/.ide/data/User/settings.json | sponge /home/developer/.ide/data/User/settings.json
+
+    # Clones the solar eclipse content in the workspace code dir
     cd "/home/developer/Documents/code/"
     GIT_REPO_URL=https://github.com/graderthan/solar-eclipses-2024.git
     
