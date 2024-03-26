@@ -14,7 +14,7 @@ Dive into the celestial mechanics of solar eclipses with our comprehensive educa
 
 Our resources are crafted to spark curiosity and deepen understanding of solar eclipses through interactive learning and exploration. Perfect for classroom use or individual study, this material is your go-to for an astronomical event to be noticed.
 
-Let's make learning about the April 4th, 2024, solar eclipse an unforgettable educational adventure!"
+Let's make learning about the April 8th, 2024, solar eclipse an unforgettable educational adventure!"
 
 ## Getting Started With Grader Than:
 
